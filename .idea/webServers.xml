@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d720cafd-21dc-46a0-afef-84c00a64f35e" name="structure" url="http://47.112.14.240">
+        <fileTransfer rootFolder="/home/admin/go_project/DataStructure" accessType="SFTP" host="47.112.14.240" port="9304" sshConfigId="8c060187-69fb-4e0f-87eb-8fde17f1b1a6" sshConfig="admin@47.112.14.240:9304 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
